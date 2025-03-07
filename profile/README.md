@@ -1,4 +1,7 @@
-![xxptf](https://github.com/user-attachments/assets/db222c01-41b5-4b28-a822-252ba1606f93)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/db222c01-41b5-4b28-a822-252ba1606f93">
+</p>
+
 
 # Who? Why? When? Where? What?
 - We are Students who want to make something significant for this world with our knowledge.
@@ -13,4 +16,4 @@
   - [asuuu](https://github.com/hikenoesu)
   - [Prashant](https://github.com/prashant18108)
 
-## Ready to collaborate, hop on our [discord server](https://discord.gg/5QhqjbyXrQ) and contact us there.
+### Ready to collaborate, hop on our [discord server](https://discord.gg/5QhqjbyXrQ) and contact us there.
